@@ -1,3 +1,6 @@
+# this doesn't work lmao
+# would probably take several years to bruteforce, will come back to
+
 seed_ranges = []
 maps = []
 
